@@ -1,1 +1,0 @@
-# Smart-Waste-Sorting-Assistant
